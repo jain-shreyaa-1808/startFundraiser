@@ -255,7 +255,7 @@ opacity: 1;
 
 @media screen and (min-device-width: 360px) and (max-device-width: 450px) { 
   :root {
---boxheight:150px; 
+--boxheight:170px; 
 --boxwidth: 120px;
 
   }
